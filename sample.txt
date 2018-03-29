@@ -1,5 +1,9 @@
 ﻿Git can be used by even a monkey
 bold text added
 second text added
+<<<<<<< HEAD
 add merge text
+=======
+merge text 2
+>>>>>>> c37adfb0e09dfc370bd1690f8d5d0762b21ab34c
 
